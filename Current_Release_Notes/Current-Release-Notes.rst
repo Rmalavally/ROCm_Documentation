@@ -491,7 +491,7 @@ To test the compatibility, run the ROCm v4.1 version of rocminfo using the follo
 Containers
 ------------
 
-A container (built with error detection for this issue) using a ROCm v4.1 or newer run-time is initiated to execute on an older kernel. The container fails to start and the following warning appears:
+A container (built with error detection for this issue) using a ROCm v4.1/higher or newer run-time is initiated to execute on an older kernel. The container fails to start and the following warning appears:
 
 *Error: Incompatible ROCm environment. The Docker container requires the latest kernel driver to operate correctly. Upgrade the ROCm kernel to v4.1 or newer, or use a container tagged for v4.0.1 or older.*
 
