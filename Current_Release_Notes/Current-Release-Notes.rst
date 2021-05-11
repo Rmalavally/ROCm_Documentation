@@ -448,7 +448,7 @@ Or
 Precision Issue in AMD RADEON™ PRO VII and AMD RADEON™ VII
 ==============================================================
 
-In AMD RADEON™ Pro VII AND AMD RADEON™ VII, a precision issue can occur wen using the Tensorflow XLA path.
+In AMD RADEON™ Pro VII AND AMD RADEON™ VII, a precision issue can occur when using the Tensorflow XLA path.
 
 This issue is currently under investigation.
 
