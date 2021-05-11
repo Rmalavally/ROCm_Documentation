@@ -468,7 +468,7 @@ also deprecated with no announced removal release.
 Driver Compability Issue in ROCm v4.1
 ========================================
 
-In certain scenarios, the ROCm 4.1 run-time and userspace environment are not compatible with ROCm v4.0 and older driver implementations for 7nm-based (Vega 20) hardware (MI50 and MI60). 
+In certain scenarios, the ROCm v4.1 or higher run-time and userspace environment are not compatible with ROCm v4.0 and older driver implementations for 7nm-based (Vega 20) hardware (MI50 and MI60). 
 
 To mitigate issues, the ROCm v4.1 or newer userspace prevents running older drivers for these GPUs.
 
